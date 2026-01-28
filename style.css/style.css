@@ -18,3 +18,8 @@ nav{
     max-width: 1600px;
     width: 100%;
 }
+
+nav >h2 >span{
+        color: #F7E93F;
+        color: #FB09B4;
+}
