@@ -101,3 +101,21 @@ nav >h2 >span{
     margin-left: 200px;
     margin-right: 200px;
 }
+
+main{
+    font-family: "Work Sans", sans-serif;
+}
+.color{
+    background-color: #1A0B2E;
+}
+.note{
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: bold;
+    font-size: 48px;
+    width: 1200px;
+    height: 59px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin: 0 auto;
+}
