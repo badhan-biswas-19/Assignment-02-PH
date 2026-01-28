@@ -76,3 +76,28 @@ nav >h2 >span{
     height: 148px;
     /* width: 1200px; */
 }
+
+.list-2{
+    color: #00FF88;
+    display: flex;
+    list-style: none;
+    gap: 80px;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: 48px;
+    height: 59px;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+
+.list-3{
+   
+    color: #FFFFFF;
+    list-style: none;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+}
