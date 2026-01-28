@@ -165,4 +165,26 @@ main{
     width: 184px;
     height: 40px;
 }
-
+.footer{
+    width: 1600px;
+    height: 412px;
+}
+.footer-tag{
+    color: #FFFFFF;
+    background-color: #351165;
+    text-align: center;
+}
+footer > footer-tag > span{
+    color: #FB09B4;
+}
+.foot-icons{
+    background-color: #351165;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.copyright{
+    background-color: #351165;
+    color: #FAFAFA;
+    text-align: center;
+}
