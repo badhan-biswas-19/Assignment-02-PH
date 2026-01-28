@@ -101,10 +101,21 @@ nav >h2 >span{
     margin-left: 200px;
     margin-right: 200px;
 }
+.tag{
+    color: #FFFFFF;
+    background-color: #1A0B2E;
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+}
+.iframes{
+    display: flex;
+}
 
 main{
     font-family: "Work Sans", sans-serif;
 }
+
 .color{
     background-color: #1A0B2E;
 }
@@ -119,3 +130,39 @@ main{
     margin-right: 200px;
     margin: 0 auto;
 }
+.section{
+    width: 200px;
+    height: 200px;
+   border: #351165;
+   width: 1200px;
+   height: 280px;
+   margin-left: 40px;
+   margin-right: 960px;
+   margin: 0 auto;
+   display: flex;
+   padding: 10px;
+   
+   /* grid-template-columns: 1; */
+}
+
+.highlight-2{
+    color: #FFFFFF;
+    font-size: 32px;
+    display: flex;
+    width: 896px;
+    height: 39px;
+    }
+.paragraph-2{
+        width: 896px;
+        height: 72px;
+        font-size: 16px;
+        color: #FFFFFF;
+        display: flex;
+        line-break: auto;
+    }
+
+.icons{
+    width: 184px;
+    height: 40px;
+}
+
