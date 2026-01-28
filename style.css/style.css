@@ -23,3 +23,17 @@ nav >h2 >span{
         color: #F7E93F;
         color: #FB09B4;
 }
+
+.list{
+    display: flex;
+    list-style: none;
+    gap: 32px;
+}
+
+.btn{
+    display: flex;
+    background-color: Linear;
+    padding:10px ;
+    color: #FFFFFF;
+    background-color: #FB09B4; 
+}
